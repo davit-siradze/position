@@ -63,7 +63,7 @@ body {
 
 }
 /* Section 1 */
-.post1 {
+.post {
 	margin-top: 86px;
 	margin-left: 136px;
 	width: 1330px;
@@ -84,6 +84,51 @@ body {
 	font-size: 20px;
 	color: #707070;
 }
+.readmore {
+	float: left;
+	color: #EF0C23;
+	margin-top: 10px;
+	margin-left: 116px;
+	font-size: 18px;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
 span {
 	color: #EF0C23;
+}
+.postimg2 {
+	float: right;
+	width: 630px;
+	height: 660px;
+}
+.h3bag {
+	margin-top: 20px;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	font-size: 20px;
+
+}
+.pbag {
+	margin-top: 24px;
+	font-size: 20px;
+	color: #707070;
+}
+.imgbagrat {
+	width: 300px;
+	height: 400px;
+}
+.readmore2 {
+	float: right;
+	margin-right: 116px;
+	margin-top: -19px;
+	font-size: 18px;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	color: #EF0C23;
+}
+.post2 {
+	float: left;
+	margin-top: 86px;
+}
+.postimg3 {
+	float: right;
+	width: 630px;
+	height: 660px;
 }
